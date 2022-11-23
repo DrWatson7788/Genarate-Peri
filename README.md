@@ -6,5 +6,5 @@ Follow this tute - https://mfcallahan.blog/2022/08/31/using-gdal-in-windows-term
 On the 5th line change path to your shapefile want to calculate perimeter 
 <h3>Last Step: Run the code</h3>
 View Shapefile attribute table 
-
+<br>
 *Not a professional project 
